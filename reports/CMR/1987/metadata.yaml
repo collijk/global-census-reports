@@ -1,3 +1,4 @@
-url: https://catalog.ihsn.org/catalog/6037
-date_collected: "2023-07-31"
-report_type: "complete"
+sources:
+- date_collected: '2023-07-31'
+  report_type: complete
+  url: https://catalog.ihsn.org/catalog/6037

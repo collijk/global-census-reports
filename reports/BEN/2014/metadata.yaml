@@ -1,3 +1,4 @@
-url: https://instad.bj/statistiques/enquetes-et-recensements#menage
-date_collected: "2023-07-31"
-report_type: "complete"
+sources:
+- date_collected: '2023-07-31'
+  report_type: complete
+  url: https://instad.bj/statistiques/enquetes-et-recensements#menage

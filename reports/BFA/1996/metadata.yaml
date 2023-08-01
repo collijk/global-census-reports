@@ -1,3 +1,4 @@
-url: https://www.insd.bf/fr/statistiques-demographiques/recensements-generaux-de-la-population
-date_collected: "2023-07-31"
-report_type: "complete"
+sources:
+- date_collected: '2023-07-31'
+  report_type: complete
+  url: https://www.insd.bf/fr/statistiques-demographiques/recensements-generaux-de-la-population

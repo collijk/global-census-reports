@@ -1,3 +1,4 @@
-url: https://www.ons.dz/spip.php?rubrique390
-date_collected: "2023-07-31"
-report_type: "existence"
+sources:
+- date_collected: '2023-07-31'
+  report_type: existence
+  url: https://www.ons.dz/spip.php?rubrique390

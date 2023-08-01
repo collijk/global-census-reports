@@ -1,3 +1,4 @@
-url: https://www.ilo.org/surveyLib/index.php/catalog/7957/related-materials
-date_collected: "2023-07-31"
-report_type: "complete"
+sources:
+- date_collected: '2023-07-31'
+  report_type: complete
+  url: https://www.ilo.org/surveyLib/index.php/catalog/7957/related-materials

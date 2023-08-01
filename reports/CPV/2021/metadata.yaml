@@ -1,3 +1,4 @@
-url: https://ine.cv/censo_quadros/
-date_collected: "2023-07-31"
-report_type: "complete"
+sources:
+- date_collected: '2023-07-31'
+  report_type: complete
+  url: https://ine.cv/censo_quadros/

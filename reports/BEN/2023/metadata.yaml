@@ -1,3 +1,4 @@
-url: http://rgph5.instad.bj/
-date_collected: "2023-07-31"
-report_type: "existence"
+sources:
+- date_collected: '2023-07-31'
+  report_type: existence
+  url: http://rgph5.instad.bj/

@@ -1,3 +1,4 @@
-url: https://unstats.un.org/unsd/demographic-social/census/censusdates
-date_collected: "2023-07-31"
-report_type: "existence"
+sources:
+- date_collected: '2023-07-31'
+  report_type: existence
+  url: https://unstats.un.org/unsd/demographic-social/census/censusdates
