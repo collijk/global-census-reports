@@ -2,3 +2,9 @@ sources:
 - date_collected: '2023-08-01'
   report_type: existence
   url: https://unstats.un.org/unsd/demographic-social/census/censusdates
+- date_collected: '2023-08-04'
+  report_type: complete
+  url: https://data.gouv.ci/datasets/recensement-de-la-population-ivoirienne-par-region-1
+- date_collected: '2023-08-04'
+  report_type: complete
+  url: https://www.caidp.ci/recherche?search=recensement
